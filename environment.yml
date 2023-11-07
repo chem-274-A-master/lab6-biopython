@@ -1,0 +1,16 @@
+name: chem274A_lab6
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - matplotlib
+  - numpy
+  - jupyterlab
+  - biopython 
+  - nglview
+  - pip
+  - seqlike
+  - bokeh
+  - bioconda::mafft
